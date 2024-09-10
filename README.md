@@ -36,7 +36,7 @@ Este projeto é um clone do Facebook Messenger desenvolvido com React e Firebase
    npm start
    ```
 
-   ## Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
